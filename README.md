@@ -25,4 +25,10 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Adding flair to your photos for fun.
 - Practicing computer vision workflows.
 
+  ## OUTPUT:
+
+  ![Screenshot 2025-03-28 112803](https://github.com/user-attachments/assets/ccc8521f-17ad-4d81-bdd8-2a378684ff00)
+
+  
+
 Feel free to fork, contribute, or customize this project for your creative needs!
